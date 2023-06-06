@@ -1,9 +1,5 @@
-<div dir='rtl' lang='he'>
-
 # Multiplayer games using Photon Fusion
-
-Code based on the [Fusion Shared Mode Tutorial](https://doc.photonengine.com/fusion/current/tutorials/shared-mode-basics/overview).
-
-
-
-</div>
+## we change two things in the game
+## first we add score to the players
+## 2nd we add bulit that hit the other players
+### [game](https://tommy-bar.itch.io/multigame)
